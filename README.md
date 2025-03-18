@@ -8,10 +8,11 @@
 ---
 
 ## 🔥 About Me
-
 - 🎓 **Master of Computer Applications (MCA)** @ PES University (CGPA: 7.94, Expected 2025)
 - 🎓 **Bachelor of Computer Applications (BCA)** @ Bhandarkars Arts & Science College (CGPA: 9.16, 2023)
-
+- - 🎓 **Pre-University Course (PUC)** @ Viveka PU College, Kota, Udupi (78.16%, 2020)
+- 🎓 **10th Standard (State Board)** @ GOVT High School, Manoor, Udupi District (85.60%, 2018)
+- 
 - 🌎 Languages: English, Kannada
 - 🎯 Career Objective: Seeking challenging opportunities to apply my skills for impactful solutions.
 
@@ -68,8 +69,9 @@ Financial calculator app for mutual funds, PPF, and more.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn]()  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishwasKunder)  
 [![Email](https://img.shields.io/badge/Email-vishwaskunder1@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwaskunder1@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-profile)  
 
 🌟 **Star my repositories and let's collaborate on amazing projects!**
