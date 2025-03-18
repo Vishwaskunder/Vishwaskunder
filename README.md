@@ -75,4 +75,4 @@ Financial calculator app for mutual funds, PPF, and more.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vishu04padukare)  
 
 
- **Star my repositories and let's collaborate on amazing projects!**
+
