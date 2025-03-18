@@ -1,4 +1,4 @@
-![Vishwas's Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
+![Vishwas's Banner](https://github.com/Vishwaskunder)
 
 # 👋 Hi, I'm Vishwas Kunder!
 
