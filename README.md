@@ -9,8 +9,9 @@
 
 ## 🔥 About Me
 
-- 🎓 **Master of Computer Applications (MCA)** @ PES University (CGPA: 8.0, Expected 2025)
+- 🎓 **Master of Computer Applications (MCA)** @ PES University (CGPA: 7.94, Expected 2025)
 - 🎓 **Bachelor of Computer Applications (BCA)** @ Bhandarkars Arts & Science College (CGPA: 9.16, 2023)
+
 - 🌎 Languages: English, Kannada
 - 🎯 Career Objective: Seeking challenging opportunities to apply my skills for impactful solutions.
 
