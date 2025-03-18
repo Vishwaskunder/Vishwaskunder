@@ -69,9 +69,10 @@ Financial calculator app for mutual funds, PPF, and more.
 
 ## 📫 Let's Connect
 
-[![LinkedIn]()  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwas-kunder-3a364725b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishwasKunder)  
 [![Email](https://img.shields.io/badge/Email-vishwaskunder1@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwaskunder1@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-profile)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vishu04padukare)  
 
-🌟 **Star my repositories and let's collaborate on amazing projects!**
+
+ **Star my repositories and let's collaborate on amazing projects!**
