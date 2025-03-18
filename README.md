@@ -10,7 +10,7 @@
 ## 🔥 About Me
 - 🎓 **Master of Computer Applications (MCA)** @ PES University (CGPA: 7.94, Expected 2025)
 - 🎓 **Bachelor of Computer Applications (BCA)** @ Bhandarkars Arts & Science College (CGPA: 9.16, 2023)
-- - 🎓 **Pre-University Course (PUC)** @ Viveka PU College, Kota, Udupi (78.16%, 2020)
+-  🎓 **Pre-University Course (PUC)** @ Viveka PU College, Kota, Udupi (78.16%, 2020)
 - 🎓 **10th Standard (State Board)** @ GOVT High School, Manoor, Udupi District (85.60%, 2018)
 - 
 - 🌎 Languages: English, Kannada
