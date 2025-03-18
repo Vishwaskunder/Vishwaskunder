@@ -12,7 +12,7 @@
 - 🎓 **Bachelor of Computer Applications (BCA)** @ Bhandarkars Arts & Science College (CGPA: 9.16, 2023)
 -  🎓 **Pre-University Course (PUC)** @ Viveka PU College, Kota, Udupi (78.16%, 2020)
 - 🎓 **10th Standard (State Board)** @ GOVT High School, Manoor, Udupi District (85.60%, 2018)
-- 
+  
 - 🌎 Languages: English, Kannada
 - 🎯 Career Objective: Seeking challenging opportunities to apply my skills for impactful solutions.
 
