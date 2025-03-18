@@ -53,16 +53,16 @@
 
 ## 🏆 Projects
 
-### 🔹 [TutorConnect](#) *(Ongoing MCA Project)*
+### 🔹 [TutorConnect](https://github.com/Vishwaskunder/TutorConnect) *(Ongoing MCA Project)*
 Connecting students with expert tutors for personalized learning. Built with **Flutter & Firebase**. 
 - 📅 **Schedule Sessions** (Virtual & In-Person)
 - 💬 **Real-time Chat & Doubt Resolution**
 - 🔒 **Secure Payments & Admin Verification**
 
-### 🔹 [Fishery Management System](#)
+### 🔹 [Fishery Management System](https://github.com/Vishwaskunder/FISHERY-MANAGEMENT)
 Online platform for real-time fishery inventory tracking, transactions, and market insights.
 
-### 🔹 [Finance Premium Tool](#)
+### 🔹 [Finance Premium Tool](https://github.com/Vishwaskunder/Finance-Premium-Tool)
 Financial calculator app for mutual funds, PPF, and more.
 
 ---
